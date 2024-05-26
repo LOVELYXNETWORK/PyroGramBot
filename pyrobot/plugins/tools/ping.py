@@ -7,7 +7,7 @@ from pyrobot import COMMAND_HAND_LER
 from pyrobot.helper_functions.cust_p_filters import f_onw_fliter
 
 # -- Constants -- #
-ALIVE = "ചത്തിട്ടില്ലാ..."
+ALIVE = "checking..."
 HELP = "CAADAgAD6AkAAowucAABsFGHedLEzeUWBA"
 REPO = "User / Bot is available on GitHub:\n" "https://github.com/SpEcHiDe/PYROXV2"
 # -- Constants End -- #
